@@ -1,0 +1,2 @@
+class JoyRideFun < ApplicationRecord
+end
